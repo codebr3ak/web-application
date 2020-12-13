@@ -24,7 +24,7 @@ h1{
 
 #akan{
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    color: #ff4646;
     display: inline-block;
     width: 40%;
     text-transform: uppercase;
@@ -35,4 +35,9 @@ h1{
     width: 100%;
     background-color: #fff;
     background-clip: padding-box;
+}
+
+form-group{
+    margin-left: 20px;
+    margin-right: 20px;
 }
