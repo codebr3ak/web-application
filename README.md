@@ -12,8 +12,12 @@ Name: Ralph N Baraka
 GithubAccount: codebr3ak
 
 ### Setup instructions:
+Open github
+On about section, click on the github link.
+Navigate through the page
 
 #### The link to my website gh-pages:
+codebr3ak.github.io/web-application/
 
 #### License
 Copyright (c) [2020] [Ralph Baraka] Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
