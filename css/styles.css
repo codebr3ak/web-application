@@ -11,6 +11,11 @@
 
 h1{
     background-color: #e9ecef;
+    color: #e9ecef;
+}
+
+.sub-1{
+    color: black;
 }
 
 .container{
@@ -40,6 +45,7 @@ h1{
 .form-group{
     margin-left: 13em;
     margin-right: 13em;
+    color: white;
 }
 
 .table-striped{ 
@@ -53,5 +59,11 @@ h1{
     top: -4px;
     color: #F63232;
 }
+
+body{
+    background-image: url(/img/hero_bg.jpg);
+}
+
+
 
 /* responsive styles */
